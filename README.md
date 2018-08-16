@@ -1,7 +1,9 @@
 # TreeBit4Mation
 A recruiting task for Bit4Mation company. 
 The task was to create an app that could add nodes, delete and modify them in a tree structure. 
+Each node can contain an Integer.
 
+The latest node (leaf) always shows (not stores) the sum of values from previous nodes.
 ## To use
 Fire up the app in IDE and input localhost:8080/ in your favourite browser!
 
