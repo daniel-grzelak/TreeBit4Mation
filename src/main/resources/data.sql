@@ -1,0 +1,1 @@
+INSERT INTO NODE(id, number, node_id) values (0, 1, null);
